@@ -1,0 +1,158 @@
+body{
+    padding-left:150px;
+    padding-right:150px;
+}
+
+button{
+    color: aliceblue;
+    border-radius: 20%;
+    line-height: 30px;
+    background-color: #45496a;
+}
+
+.imgone{
+    width: 500px;
+    height: 300px;
+}
+
+.firsttext{
+    display: inline-block;
+    width:60%;
+}
+
+section.landing{
+    text-align: center;
+    justify-content: center;
+}
+
+.calendar{
+    margin: 15px;
+    width: 30px;
+    height: 30px;
+}
+
+.connection{
+    margin: 15px;
+    width: 30px;
+    height: 30px;
+    background-blend-mode: hard-light;
+    background-color:#f1b2b2 ;
+}
+
+.money1{
+    margin: 15px;
+    width: 30px;
+    height: 30px;
+}
+
+.time, .net ,.money{
+    text-align: center;
+    border-radius: 15px;
+}
+
+.time{
+    background-color:#7d8bae;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    font-size: medium;
+
+}
+
+.net{
+    background-color:#f1b2b2;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    font-size: medium;
+
+}
+
+.money{
+    background-color:#7d8bae;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    font-size: medium;
+
+}
+
+.time.imgone{
+    background-color:#7d8bae ;
+}
+
+.welcome{
+    height:200px;
+    background-color:#7d8bae;
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    overflow-y: auto;
+}
+
+.childdiv{
+    position:absolute;
+    border-left:1px solid #f1b2b2 ;
+    border-right-style: dotted ;
+    border-right-color: #f1b2b2;
+    bottom: 50px;
+    height: calc(300 - 60px);
+    width: calc(100% - 60px);
+}
+
+.wel_landing{
+    text-align: center;
+    padding: 30px;
+    position:relative;
+    height:700px;
+}
+
+.sub_landing{
+    padding: 10px;
+    border-style: dotted;
+    width: 700px;
+    display: inline-block;
+}
+
+#sub{
+    color: #45496a;
+}
+.sublanding{
+    width: 100%;
+    text-align: left;
+    justify-content: left;
+}
+
+.submit_input{
+    display: inline;
+    width:300px;
+    border-color: #45496a;
+    border-radius: 10px;
+}
+
+.submit_button{
+    background-color: #45496a;
+    color: white;
+    border-radius: 10px;
+}
+
+.footer{
+    padding: 20px;;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+table{
+   width: 100%;
+}
+
+table,td{
+    margin: 0;
+    padding: 10px;
+    border-collapse: collapse;
+    border-style: dotted;
+}
+
+
+
